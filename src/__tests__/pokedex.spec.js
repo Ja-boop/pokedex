@@ -25,3 +25,5 @@ test('inicializa pokedex', () => {
         .toHaveLength(20);
     });
 });
+
+
